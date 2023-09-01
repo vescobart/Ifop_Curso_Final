@@ -40,7 +40,6 @@ Espacialmente, estas especies se distribuyeron entre las latitudes 29°42´30" LS 
 
 ![Grupos taxonomicos evaluados como vulnerables](especies.png){#fig width="370"}
 
-
-![Porcentaje de registros de especies indicadoras de EMV y taxones vulnerables en las pesquerias](grafico-pie.png)
+![Porcentaje de registros de especies indicadoras de EMV y taxones vulnerables en las pesquerias chilenas](grafico-pie.png)
 
 ![Presencia espacial de invertebrados marinos observados y capturados en las operaciones de pesca, periodo 2017-2022](mapa.png)
