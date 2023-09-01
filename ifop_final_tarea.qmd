@@ -1,0 +1,45 @@
+---
+title: Ecosistemas Marinos Vulnerables
+subtitle: Corales y esponjas
+author: 
+  - name: Victoria Escobar Toro
+    email: victoria.escobar@ifop.cl
+    affiliations: 
+        - id: some-tech
+          name: Instituto de Fomento Pesquero
+          department: Departamento de Evaluacion de Pesquerias
+          address: Avenida Blanco Encalada 839
+          city: Valparaiso
+          state: Chile
+         
+abstract: |
+  An exploration of the databases of presence records was carried out during the period includeAn exploration of the databases of presence records was carried out during the period included between 2017 and 2022 of the species present in the catches of Chilean industrial vessels with scientific observers onboard. The registered species belong to the vulnerable taxonomic groups and indicators of EMV according to the classification of Van Ofwegen (2014) and the records obtained in Bernal et al., 2014, corresponding to corals, sponges, depth stars and actinia.
+  
+keywords: 
+  - Corales
+  - EMV
+date: last-modified
+bibliography: bibliography.bib
+format:
+  elsevier-pdf:
+    keep-tex: true
+    journal:
+      name: Journal Name
+      formatting: preprint
+      model: 3p
+      cite-style: super
+---
+
+Las observaciones provienen de 19 embarcaciones que operaron entre los años 2017 - 2022, pertenecientes a las flotas industriales de la Pesqueria demersal centro sur, Pesqueria sur austral, Pesqueria de espinel de bacalao de profundidad y la Pesqueria de crustaceos demersales (industrial y artesanal). La cobertura de estos viajes fue del 24,3%, durante estos viajes se realizaron 28.637 lances, de los cuales en el 0,03% se registro la presencia de actinias, esponjas, corales petreos, corales blandos y estrellas de profundidad.
+
+Se realizo una exploracion de las bases de datos de registros de presencia durante el periodo comprendido entre el 2017 y 2022 de las especies presentes en las capturas de embarcaciones industriales con observadores cientificos. Las especies registradas pertenecen a los grupos taxonomicos vulnerables e indicadores de EMV de acuerdo a la clasificacion de Van Ofwegen (2014) y los registros obtenidos en Bernal et al. 2014, correspondientes a corales, esponjas, estrellas de profundidad y actinias (Figura 1)
+
+De la serie presentada, entre las especies indicadoras de habitat de ecosistemas marinos vulnerables (EMV) y especies vulnerables, las especies mas recurrentes en los registros de los observadores (presencia), para las pesquerias fueron los corales petreos (30,5%), secundariamente las estrellas de profundidad (Hippasteria phrygiana), esponjas (Spongia sp) con un 19% respectivamente y las actinias con un 17% (Figura 2).
+
+Espacialmente, estas especies se distribuyeron entre las latitudes 29°42´30" LS -- 57°15´00" LS. De la clase Anthozoa, los corales petreos correspondieron al taxon mas recurrente en las pesquerias de arrastre fabrica y de espinel de bacalao con una amplia representación espacial (Figuras 3).
+
+![Grupos taxonomicos evaluados como vulnerables](especies.png){#fig width="370"}
+
+![Porcentaje de registros de especies indicadoras de EMV y taxones vulnerables en las pesquerias](grafico-pie.png)
+
+![Presencia espacial de invertebrados marinos observados y capturados en las operaciones de pesca, periodo 2017-2022](mapa.png)
